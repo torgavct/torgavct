@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Christian 👋
 
-<!--
-**torgavct/torgavct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student in Innovative Programming
+- 💻 Passionate about software development, Linux, and self-hosting
+- 🚀 Building personal projects to improve my skills
+- 🌱 Learning software architecture, modern development tools, and AI
+- 🐧 Daily-driving Linux
 
-Here are some ideas to get you started:
+## Tech Stack
+- C++
+- Dart / Flutter
+- Python
+- Git
+- Linux
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building portfolio projects
+- Open-source contributions
+- Learning scalable software design
